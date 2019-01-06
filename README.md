@@ -3,13 +3,13 @@ Shiraz Amadu Bello
 Sinyal Isleme  
 Proje:MATLAB ile sentezleme
 
-README.md: Bilgilerim ve kod ile ilgili aciklama kismidir
+README.md: Bilgilerim ve kod ile ilgili aciklama kismidir(markdown tipi)
 
-notalar.txt: olusturuldugumuz olan notanin olculeri yazilmistir.
+notalar.txt: olusturuldugumuz olan notanin olculeri yazilmistir(text tipi)
 
-notalar.png: oynayacagimiz notanin muzik simgeyle gosterimi
+notalar.png: oynayacagimiz notanin muzik simgeyle gosterimi(png tipi)
 
-note.m : notam.m matlabta olan  islemini (kodlarini ) tutuyor
+note.m : notam.m matlabta olan  islemini (kodlarini ) tutuyor(matlab)
 
-sentez.m : oynayacagimiz melodinin iceriyor
+sentez.m : oynayacagimiz melodininseslendiren kodu iceriyor(matlab)
 
