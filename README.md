@@ -3,11 +3,13 @@ Shiraz Amadu Bello
 Sinyal Isleme  
 Proje:MATLAB ile sentezleme
 
+README.md: Bilgilerim ve kod ile ilgili aciklama kismidir
+
 notalar.txt: olusturuldugumuz olan notanin olculeri yazilmistir.
 
-notalar.png: ekledigimiz 16 li olcuklu png notadir (tek)
+notalar.png: oynayacagimiz notanin muzik simgeyle gosterimi
 
-note.m : notamizin matlab islemini gosteriliyor
+note.m : notam.m matlabta olan  islemini (kodlarini ) tutuyor
 
-sentez.m : 
+sentez.m : oynayacagimiz melodinin iceriyor
 
